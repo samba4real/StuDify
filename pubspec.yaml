@@ -1,0 +1,54 @@
+name: studify
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  animate_do: ^3.0.2
+  cloud_firestore: ^4.8.5
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.7.3
+  firebase_core: ^2.15.1
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.7
+  font_awesome_flutter: ^10.5.0
+  google_fonts: ^5.1.0
+  image_picker: ^1.0.4
+  lottie: ^1.4.2
+  rename: ^2.1.1
+  shared_preferences: ^2.2.0
+  smooth_page_indicator: ^1.0.0+2
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/anim/
+    - assets/icons/
+
+  fonts:
+    - family: Lora
+      fonts:
+        - asset: assets/fonts/lora/Lora-Regular.ttf
+          weight: 400
+
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/manrope/Manrope-Bold.ttf
+          weight: 800
+        - asset: assets/fonts/manrope/Manrope-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/manrope/Manrope-Regular.ttf
+          weight: 400

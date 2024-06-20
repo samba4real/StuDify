@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>231353217933-upkfhjoutm4cetedr04387divn4potuq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.231353217933-upkfhjoutm4cetedr04387divn4potuq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvdgXMGS_5mGsH8gVXJW0yGzitBY5FIm0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>231353217933</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.studify</string>
+	<key>PROJECT_ID</key>
+	<string>studify-db-a10dc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>studify-db-a10dc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:231353217933:ios:0b87eb9832c291e64d03c4</string>
+</dict>
+</plist>
