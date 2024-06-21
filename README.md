@@ -1,6 +1,6 @@
 # studify
 
-A new Flutter project.
+A Platform where students with common interests meet and share ideas.
 
 ## Getting Started
 
